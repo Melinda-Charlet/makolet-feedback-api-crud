@@ -22,16 +22,16 @@ The Feedback API will be accessible at http://localhost:9191
 
 API Endpoints:
 
-POST /addFeedback: Create a new feedback entry.
+-POST /addFeedback: Create a new feedback entry.
 
-POST /addFeedbacks: Create a list of feedback entries.
+-POST /addFeedbacks: Create a list of feedback entries.
 
-GET /feedbacks: Retrieves list of all feedback.
+-GET /feedbacks: Retrieves list of all feedback.
 
-GET /feedbackById/{id}: Retrieve feedback by ID.
+-GET /feedbackById/{id}: Retrieve feedback by ID.
 
-GET /feedbackById/{name}: Retrieve feedback by Name.
+-GET /feedbackById/{name}: Retrieve feedback by Name.
 
-PUT /update: Update existing feedback message by ID.
+-PUT /update: Update existing feedback message by ID.
 
-DELETE /delete/{id}: Delete feedback by ID.
+-DELETE /delete/{id}: Delete feedback by ID.
