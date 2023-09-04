@@ -1,7 +1,7 @@
 # makolet-feedback-api-crud
 Makolet Feedback API CRUD operations by building a Maven project using Spring Boot 3.1.2, Java 17 and MySQL 8
 
- Features:
+Features:
 
 - Create new feedback entries
 - Retrieve feedback details
@@ -9,7 +9,7 @@ Makolet Feedback API CRUD operations by building a Maven project using Spring Bo
 - Delete feedback records
 - Customize feedback handling to your specific requirements
 
-  Prerequisites:
+Prerequisites:
 
 - Java Development Kit (JDK) - Java 17
 - Integrated development environment (IDE) - IntelliJ
@@ -18,6 +18,7 @@ Makolet Feedback API CRUD operations by building a Maven project using Spring Bo
 
 
 The Feedback API will be accessible at http://localhost:9191
+
 
 API Endpoints:
 
